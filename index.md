@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Sensor3D Page
 
-You can use the [editor on GitHub](https://github.com/alpmanyas/Sensor3D/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+With sensor3D, you can monitor, store and display the below in 3D:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Magnetic field vectors,
+Spinning speed,
+Orientation (direction of the gravity),
+Accelerometer,
 
-### Markdown
+Enjoy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sensor3D
 
-```markdown
-Syntax highlighted code block
+Sensor 3D is a lightweight sensor application for monitoring device sensors. It records and displays the sensor data in a 3D fashion. Users have the option of sending the data as an email with different file formats.  
 
-# Header 1
-## Header 2
-### Header 3
+## Supported Plaftorms
+### IOS
 
-- Bulleted
-- List
+Sendor3D is currently published for iphone and ipad. 
+			
+<img src="https://raw.githubusercontent.com/alpmanyas/Sensor3D/main/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202021-03-17%20at%2001.34.57.png" height="320">
 
-1. Numbered
-2. List
+<img src="https://raw.githubusercontent.com/alpmanyas/Sensor3D/main/Screen%20Shot%202021-03-17%20at%2023.52.07.png" height="320">
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://raw.githubusercontent.com/alpmanyas/Sensor3D/main/Screen%20Shot%202021-03-17%20at%2023.53.21.png" height="320">
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Android
 
-### Jekyll Themes
+Android version of Sensor3D is under development. As soon as I can find some cheap real devices to test, I will try to deploy the anrdoid versions.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alpmanyas/Sensor3D/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Source Code
+I have developed Sensor3D using Microsoft Visual Studio (I am grateful to them for the community license) 
 
-### Support or Contact
+I am planning to make this project open source in near future as soon as I finish the Android deployement.  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Need help? Got any suggestions or questions?
+
+Having trouble with Pages? Please [contact me](mailto:alpmanyas@gmail.com) and I’ll be glad to help you sort it out. Any feedback or suggestions are also welcome!
